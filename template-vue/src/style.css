@@ -1,0 +1,17 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+header,
+main {
+  padding: 0 141px;
+}
+
+button {
+  padding: 5px 12px 5px 12px;
+  border-radius: 5px;
+}
+
+*::-webkit-scrollbar {
+  height: 0; /* Ancho de la barra de desplazamiento */
+}
