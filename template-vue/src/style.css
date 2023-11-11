@@ -14,4 +14,5 @@ button {
 
 *::-webkit-scrollbar {
   height: 0; /* Ancho de la barra de desplazamiento */
+  width: 0;
 }
