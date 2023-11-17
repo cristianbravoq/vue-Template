@@ -12,7 +12,7 @@
 <script setup>
 import UserInfo from "@/components/layout/UserInfo.vue";
 import InfoMenu from "@/components/layout/InfoMenu.vue";
-import RouterMenu from "../components/layout/RouterMenu.vue";
+import RouterMenu from "@/components/layout/RouterMenu.vue";
 
 const menuData = [
   { name: 'Perfil', path: '/company' },

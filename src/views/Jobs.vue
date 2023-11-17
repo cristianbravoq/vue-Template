@@ -6,7 +6,7 @@
 </template>
 
 <script setup>
-import CarouselJobs from '../components/layout/CarouselJobs.vue';
+import CarouselJobs from '@/components/layout/CarouselJobs.vue';
 
 </script>
 

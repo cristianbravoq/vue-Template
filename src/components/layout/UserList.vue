@@ -18,7 +18,7 @@
 import Eye from "@/assets/icons/eye.svg";
 import Talent from "@/assets/icons/talent.svg";
 import Camera from "@/assets/icons/camera.svg";
-import Show from "@/assets/icons/Show.svg";
+import Show from "@/assets/icons/show.svg";
 import Curriculum from "@/assets/icons/curriculum.svg";
 import Multimedia from "@/assets/icons/multimedia.svg";
 
